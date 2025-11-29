@@ -1,6 +1,6 @@
 # Prompt-Study
 
-> **圖像生成提示詞的研究、結構拆解與實驗筆記** > Focus: Google Gemini 3 Pro (Imagen 3) & Modern Image Models
+> **圖像生成提示詞的研究、結構拆解與實驗筆記**
 
 ## 📖 專案簡介 (Introduction)
 
@@ -8,7 +8,25 @@
 
 不同於單純的「咒語大全」或圖片展示，本專案著重在 Prompt 的分析：拆解 Prompt 中各語句對生成結果的實際影響。
 
-目前主要聚焦於 **Gemini 3 Pro (Nano Banana Pro)** 的圖像生成能力，但未來會考慮增加其他生成模型的比較研究。
+目前主要聚焦於 **Nano Banana Pro** 的圖像生成能力，但未來會考慮增加其他生成模型的比較研究。
+
+> **關於模型：** **Nano Banana Pro** 是 Google 於 2025年11月中發表的圖像生成模型（Imagen 3 升級版），目前已經可以透過 Gemini 3 Pro 與 AI Studio 使用。
+
+## 🗂️ Table of Contents
+
+- [x] [001 - 動畫風角色設定圖 - Base Body (素體)](posts/001-create-character-design-sheet/index.md)
+- [x] [002 - 動畫風角色設定圖 - 服裝變更](posts/002-modify-character-design-sheet-outfit/index.md)
+- [x] [003 - 圖像轉動態姿勢草稿 (Pose Construction)](posts/003-convert-to-character-pose-sketch/index.md)
+- [x] [004 - 從姿勢草圖與角色設定圖合成一個動作差分立繪](posts/004-apply-character-pose-sketch/index.md)
+- [ ] 005 - 表情結構提取 (Expression Extraction)
+- [ ] 006 - 表情差分製作 (Expression Sprite Sheet)
+- [ ] 007 - 相機視角 Prompt 研究 (Camera Angles)
+- [ ] 008 - 真人轉特定風格角色 (Person to Stylized Character)
+- [ ] 009 - 角色置入真實場景 (Character in Real Scene)
+- [ ] 010 - 情境圖合成 - 場景+姿勢+角色 (Composite)
+- [ ] 011 - LINE 貼圖製作
+- [ ] 012 - 構圖草稿控制 (Composition Sketch Control)
+- [ ] ... (還會繼續追加)
 
 ## 📄 License
 
