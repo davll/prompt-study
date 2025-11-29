@@ -1,14 +1,14 @@
 # 002 - 動畫風角色設定圖 - 服裝變更
 
-## 🖼️ 生成結果
+## 🖼️ 工作流與結果展示 (Dual-Input Workflow)
 
-![角色設定圖結果](result-ai_studio-webui.jpeg)
-
-## 🖼️ 輸入圖像
-
-![Input Image](../001-create-character-design-sheet/result-ai_studio.jpeg)
+| 輸入圖像 | 生成結果 |
+|---------|---------|
+| <img src="../001-create-character-design-sheet/result-ai_studio.jpeg" width="300" /> | <img src="result-ai_studio-webui.jpeg" width="300" /> |
 
 ## 📝 Prompt 解析
+
+### Prompt 內容
 
 > Modify the character design sheet to change the character's outfit. He is now wearing a white shirt, a black necktie, a navy blue waistcoat, navy blue trousers, and brown oxford shoes. Preserve the character's facial features and the original art style from the input reference image.
 

@@ -1,14 +1,16 @@
 # 003 - 圖像轉動態姿勢草稿 (Pose Construction)
 
-## 🖼️ 圖像
+## 🖼️ 工作流與結果展示 (Dual-Input Workflow)
 
 | 輸入圖像 | 生成結果 |
 |---------|---------|
-| ![Input Image](input.jpeg) | ![Result Image](result.jpeg) |
+| <img src="input.jpeg" width="200" /> | <img src="result.jpeg" width="200" /> |
 
 * 輸入圖片取自 [The Moves Make the Man Part 2](https://www.ign.com/articles/2002/09/18/the-moves-make-the-man-part-2)
 
 ## 📝 Prompt 解析
+
+### Prompt 內容
 
 > A rough construction sketch based on the pose in the image. The drawing should be made of red pencil lines on a plain white background. It shows the basic body structure using geometric shapes, cylinders for limbs, circles for joints, and guide lines on the face. Unfinished, preparatory drawing style.
 
