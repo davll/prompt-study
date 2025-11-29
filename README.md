@@ -18,7 +18,7 @@
 - [x] [002 - 動畫風角色設定圖 - 服裝變更](posts/002-modify-character-design-sheet-outfit/index.md)
 - [x] [003 - 圖像轉動態姿勢草稿 (Pose Construction)](posts/003-convert-to-character-pose-sketch/index.md)
 - [x] [004 - 從姿勢草圖與角色設定圖合成一個動作差分立繪](posts/004-apply-character-pose-sketch/index.md)
-- [x] 005 - 相機視角研究 (Camera Angles)
+- [x] [005 - 鏡頭語言研究：視角、景別與運鏡 (Cinematic Camera Language)](posts/005-camera-composition-study/index.md)
 - [ ] 006 - 真人轉特定風格角色 (Person to Stylized Character)
 - [ ] 007 - 角色置入真實場景 (Character in Real Scene)
 - [ ] 008 - 情境圖合成 - 場景+姿勢+角色 (Composite)
