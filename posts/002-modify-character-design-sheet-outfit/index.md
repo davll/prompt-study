@@ -10,7 +10,9 @@
 
 ### Prompt 內容
 
-> Modify the character design sheet to change the character's outfit. He is now wearing a white shirt, a black necktie, a navy blue waistcoat, navy blue trousers, and brown oxford shoes. Preserve the character's facial features and the original art style from the input reference image.
+> Modify the character design sheet to change the character's outfit.
+> He is now wearing a white shirt, a black necktie, a navy blue waistcoat, navy blue trousers, and brown oxford shoes.
+> Preserve the character's facial features and the original art style from the input reference image.
 
 ### 語句結構拆解
 

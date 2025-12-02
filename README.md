@@ -19,13 +19,15 @@
 - [x] [003 - 圖像轉動態姿勢草稿 (Pose Construction)](posts/003-convert-to-character-pose-sketch/index.md)
 - [x] [004 - 從姿勢草圖與角色設定圖合成一個動作差分立繪](posts/004-apply-character-pose-sketch/index.md)
 - [x] [005 - 鏡頭語言研究：視角、景別與運鏡 (Cinematic Camera Language)](posts/005-camera-composition-study/index.md)
-- [ ] 006 - 真人轉特定風格角色 (Person to Stylized Character)
-- [ ] 007 - 角色置入真實場景 (Character in Real Scene)
-- [ ] 008 - 情境圖合成 - 場景+姿勢+角色 (Composite)
-- [ ] 009 - LINE 貼圖製作
+- [ ] 006 - 生成線稿（Line Art）
+- [ ] 007 - 從舊圖重建出角色設定圖
 
 ### Backlog
 
+- 真人轉特定風格角色 (Person to Stylized Character)
+- 角色置入真實場景 (Character in Real Scene)
+- 情境圖合成 - 場景+姿勢+角色 (Composite)
+- LINE 貼圖製作
 - 構圖草稿控制 (Composition Sketch Control)
 - 表情結構提取 (Expression Extraction)
 - 表情差分製作 (Expression Sprite Sheet)

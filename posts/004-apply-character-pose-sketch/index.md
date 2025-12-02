@@ -8,6 +8,8 @@
 
 ## 📝 Prompt 解析
 
+### Prompt 內容
+
 > Generate a high-quality illustration based on the two provided input images.
 >
 > 1.  **Pose Reference:** Use the image containing the **red pencil structure sketch** to strictly determine the character's pose, perspective, and body composition.

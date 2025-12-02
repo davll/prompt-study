@@ -12,7 +12,10 @@
 
 ### Prompt 內容
 
-> A rough construction sketch based on the pose in the image. The drawing should be made of red pencil lines on a plain white background. It shows the basic body structure using geometric shapes, cylinders for limbs, circles for joints, and guide lines on the face. Unfinished, preparatory drawing style.
+> A rough construction sketch based on the pose in the image.
+> The drawing should be made of red pencil lines on a plain white background.
+> It shows the basic body structure using geometric shapes, cylinders for limbs, circles for joints, and guide lines on the face.
+> Unfinished, preparatory drawing style.
 
 ### 語句結構拆解
 

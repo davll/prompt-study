@@ -8,7 +8,14 @@
 
 ### Prompt 內容
 
-> Generate a professional character design sheet of a 30-year-old English man, rendered in a classic American cartoon style. The layout features a full-body character rotation including frontal view, three-quarter view, side profile, and back view. He has a tall muscular build, and is shirtless and wearing only white underwear. He has a short hairstyle, a stubble, and green eyes. He stands still with arms relaxed by his sides. The lighting is bright and saturated against a solid plain white background. The image should be text-free and high quality. The aspect ratio is 16:9.
+> Generate a professional character design sheet of a 30-year-old English man, rendered in a classic American cartoon style.
+> The layout features a full-body character rotation including frontal view, three-quarter view, side profile, and back view.
+> He has a tall muscular build, and is shirtless and wearing only white underwear.
+> He has a short hairstyle, a stubble, and green eyes.
+> He stands still with arms relaxed by his sides.
+> The lighting is bright and saturated against a solid plain white background.
+> The image should be text-free and high quality.
+> The aspect ratio is 16:9.
 
 ### 語句結構拆解
 
