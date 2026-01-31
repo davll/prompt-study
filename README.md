@@ -21,6 +21,7 @@
 - [x] [005 - 鏡頭語言研究：視角、景別與運鏡 (Cinematic Camera Language)](posts/005-camera-composition-study/index.md)
 - [x] [006 - 生成線稿（Line Art）](posts/006-covert-to-line-art/index.md)
 - [x] [007 - 從舊圖重建出角色設定圖](posts/007-rebuild-character-design-sheet/index.md)
+- [x] [008 - 動作姿勢草圖提取實驗 (Action Pose Extraction)](posts/008-convert-to-character-pose-sketch-2/index.md)
 
 ### Backlog
 
