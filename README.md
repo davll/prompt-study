@@ -19,8 +19,8 @@
 - [x] [003 - 圖像轉動態姿勢草稿 (Pose Construction)](posts/003-convert-to-character-pose-sketch/index.md)
 - [x] [004 - 從姿勢草圖與角色設定圖合成一個動作差分立繪](posts/004-apply-character-pose-sketch/index.md)
 - [x] [005 - 鏡頭語言研究：視角、景別與運鏡 (Cinematic Camera Language)](posts/005-camera-composition-study/index.md)
-- [ ] 006 - 生成線稿（Line Art）
-- [ ] 007 - 從舊圖重建出角色設定圖
+- [x] [006 - 生成線稿（Line Art）](posts/006-covert-to-line-art/index.md)
+- [x] [007 - 從舊圖重建出角色設定圖](posts/007-rebuild-character-design-sheet/index.md)
 
 ### Backlog
 
